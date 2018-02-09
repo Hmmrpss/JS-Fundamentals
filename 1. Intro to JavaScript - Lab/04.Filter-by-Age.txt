@@ -1,0 +1,5 @@
+4.Filter By Age
+
+Write a JS function that stores the name and age of two persons in objects and then filters them by minimum age.
+The input comes as five arguments. The first element is the minimum age. The second and third elements are the name and age of the first person and the fourth and fifth elements – the name and age of the second person. The three age parameters will be numbers, the names will be strings.
+The output should be printed to the console.
