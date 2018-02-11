@@ -1,0 +1,5 @@
+11.Binary Logarithm
+
+Write a JS function that prints the binary logarithm (log2 x) for each number in the input.
+The input comes as an array of number elements.
+The output should be printed to the console, on a new line for each number.
