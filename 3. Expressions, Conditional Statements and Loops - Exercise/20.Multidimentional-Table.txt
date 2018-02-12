@@ -1,0 +1,5 @@
+20.Multiplication Table
+
+Write a JS function to print a math multiplication table of size n, formatted as HTML table.
+The input comes as a single number n (0 < n < 100).
+The output consists of n+3 text lines like shown below.

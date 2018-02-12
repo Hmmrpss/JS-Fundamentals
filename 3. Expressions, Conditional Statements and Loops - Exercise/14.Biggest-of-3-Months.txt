@@ -1,0 +1,5 @@
+14.Biggest of 3 Numbers
+
+Write a JS function that finds the biggest of 3 numbers.
+The input comes as array of 3 numbers.
+The output is the biggest from the input numbers.
