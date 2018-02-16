@@ -1,5 +1,0 @@
-1.Inside Volume
-
-Write a JS function that determines whether a point is inside the volume, defined by the box, shown on the right.
-The input comes as an array of numbers. Each set of 3 elements are the x, y and z coordinates of a point.
-The output should be printed to the console on a new line for each point. Print inside if the point lies inside the volume and outisde otherwise.
